@@ -1,3 +1,0 @@
-# test-repository
-test
-eee
